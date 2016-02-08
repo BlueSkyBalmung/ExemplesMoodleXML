@@ -5,7 +5,7 @@
          <text>Question coquine</text>
      </name>
      <questiontext format="html">
-         <text>Quel est la bonne réponse</text>
+         <text>Quelle est la bonne réponse</text>
      </questiontext>
   <answer fraction="0">
      <text>Ma bite</text>
