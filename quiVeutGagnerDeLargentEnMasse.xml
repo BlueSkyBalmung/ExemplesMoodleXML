@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<quiz>
+<question type="multichoice">
+     <name>
+         <text>Question coquine</text>
+     </name>
+     <questiontext format="html">
+         <text>Quel est la bonne réponse</text>
+     </questiontext>
+  <answer fraction="0">
+     <text>Ma bite</text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="0">
+     <text>Elle a des boobs mais c'est un homme, donc ça ne compte pas</text>
+    <feedback><text>Comme ta mère</text></feedback>
+ </answer>
+ <answer fraction="0">
+     <text>John Cena !</text>
+    <feedback><text>PO PO PO PO</text></feedback>
+ </answer>
+ <shuffleanswers>1</shuffleanswers>
+ <single>true</single>
+ <answernumbering>abc</answernumbering>
+</question>
+</quiz>
