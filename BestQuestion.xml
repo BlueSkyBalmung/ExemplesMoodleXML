@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<question type="shortanswer">
+	<name>
+		<text>Life</text>
+	</name>
+	<questiontext format="html">
+		<text>What is the answer of life?</text>
+	</questiontext>
+	<answer fraction="100">
+		<text>42</text>
+		<feedback><text>Of course!</text></feedback>
+	</answer>
+</question>
